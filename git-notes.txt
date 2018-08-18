@@ -1,0 +1,25 @@
+git 使用指南 modified
+
+工作区-暂存区-master test
+
+1.新建目录
+2.git init
+3.新建文档
+4.git add 文档	
+  git commit -m “message”
+
+  modified files
+5.git status
+6.git diff modified_file
+7.git add
+8.git status
+9.git commit -m ""
+10.git log
+11.git reset --hard Head^
+   git reset --hard Head~100
+   git reset --hard abcd
+12.git log
+13.git reflog
+14.git checkout -- file
+   git reset HEAD file
+
